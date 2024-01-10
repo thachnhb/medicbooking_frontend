@@ -1,0 +1,22 @@
+.specialty-info {
+  display: flex;
+  flex-direction: row;
+  .img-input {
+    overflow: hidden;
+    .img-render {
+      height: 100%;
+      width: 100%;
+      .img-link {
+        height: 200px;
+        width: 100%;
+        object-position: top;
+        object-fit: contain;
+      }
+    }
+  }
+}
+.detail-specialty {
+  .markdown-specialty {
+    height: 400px;
+  }
+}

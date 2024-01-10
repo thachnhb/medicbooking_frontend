@@ -1,0 +1,21 @@
+@import "../../../styles/_variables.scss";
+
+.preview-img {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  height: 180px;
+  width: 100%;
+  background: center center no-repeat;
+  background-size: contain;
+  cursor: pointer;
+}
+
+.admin-footer {
+  display: flex;
+  justify-content: flex-end;
+  .create,
+  .cancel {
+    padding: 0px 8px;
+    margin: 16px 12px 0px 12px;
+  }
+}
