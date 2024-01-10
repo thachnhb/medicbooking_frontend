@@ -1,0 +1,95 @@
+@import "../../../styles/_variables.scss";
+
+@mixin logo-social-login {
+  color: $general-in-dark;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin: 4px;
+  cursor: pointer;
+}
+.login-modal {
+  .modal-content {
+    height: 0px;
+  }
+}
+.modal.fade .modal-dialog {
+  transform: none;
+  transition: none;
+}
+
+.login-singup {
+  position: relative;
+  z-index: 9999;
+  .login-background {
+    position: fixed;
+    color: $general-in-light;
+    top: 50%;
+    left: 50%;
+    transition: transform ease-in;
+    transform: translate(-50%, -50%);
+    .login-container {
+      width: 300px;
+      .login-content {
+        background: linear-gradient(135deg, #a18787 0%, #bec962 100%);
+        border-radius: 8px;
+        border: 1px solid $border-in-light;
+        margin: 0 auto;
+        padding: 16px;
+        .text-title {
+          font-size: 22px;
+        }
+        .btn-login {
+          width: 80%;
+          border-radius: 10px;
+          background: linear-gradient(
+            45deg,
+            $tone-green 0%,
+            $tone-main-color 100%
+          );
+          color: $general-in-light;
+        }
+        .forgot-password {
+          display: flex;
+          justify-content: center;
+        }
+        .social-login {
+          justify-content: center;
+          .fab {
+            &.gg {
+              border-radius: 50%;
+              height: 50px;
+              width: 50px;
+              background: rgb(170, 24, 24);
+              @include logo-social-login();
+            }
+            &.fb {
+              border-radius: 50%;
+              height: 50px;
+              width: 50px;
+              background: rgb(92, 78, 211);
+              padding-right: 2px;
+              @include logo-social-login();
+            }
+          }
+        }
+        .create-account {
+          .link-create {
+            cursor: pointer;
+          }
+        }
+        .input-password {
+          position: relative;
+          .eye-password {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            color: #000;
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}
