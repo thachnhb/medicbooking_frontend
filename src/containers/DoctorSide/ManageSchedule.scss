@@ -1,0 +1,28 @@
+@import "../../styles/variables";
+
+.schedule-container {
+  .schedule-title {
+    margin-top: 15px;
+  }
+  .schedule-info {
+    .date-picker {
+      height: 38px;
+    }
+    .pick-time {
+      display: flex;
+      justify-content: left;
+      flex-wrap: wrap;
+      .btn-time {
+        border: 1px solid $text-in-light;
+        width: 150px;
+        margin: 14px 12px 0px 0px;
+        &.active {
+          background-color: $tone-green;
+        }
+      }
+    }
+    .save-schedule {
+      margin: 12px;
+    }
+  }
+}

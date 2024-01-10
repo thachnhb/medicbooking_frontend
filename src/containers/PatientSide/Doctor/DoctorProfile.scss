@@ -1,0 +1,68 @@
+@import "../../../styles/variables";
+
+.intro-doctor-profile {
+  display: flex;
+  padding-top: 20px;
+  .content-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    .img-avatar-doctor {
+      background: center center no-repeat;
+      background-size: contain;
+      width: 96px;
+      height: 96px;
+      max-width: 100px;
+      border-radius: 50%;
+      margin: 8px;
+    }
+  }
+  .content-right {
+    margin-top: 15px;
+    margin-bottom: 18px;
+    .detail-doctor-info {
+      display: flex;
+      flex-direction: column;
+      .doctor-title-name {
+        font-size: 16px;
+        font-weight: 600;
+      }
+      .doctor-detail-intro {
+        margin-top: 6px;
+      }
+    }
+  }
+}
+.fees-service {
+  display: flex;
+  .fees {
+    margin-left: 8px;
+    font-weight: 600;
+    color: $text-subpage;
+  }
+}
+.fees-note {
+  font-style: italic;
+}
+.link-show-more {
+  .hide-show-text {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 12.5px;
+    cursor: pointer;
+    color: $text-notice;
+    margin-top: 6px;
+  }
+}
+@media (max-width: 992px) {
+  .intro-doctor-profile {
+    .content-right {
+      .detail-doctor-info {
+        .doctor-title-name {
+          text-align: center;
+        }
+      }
+    }
+  }
+}

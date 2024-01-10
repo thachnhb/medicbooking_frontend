@@ -1,0 +1,13 @@
+@import "../../../../styles/variables";
+
+.create-booking {
+  display: flex;
+  flex-direction: column;
+}
+div._loading_overlay_wrapper {
+  position: unset;
+  z-index: 9999;
+  ._loading_overlay_overlay {
+    opacity: 0.6;
+  }
+}

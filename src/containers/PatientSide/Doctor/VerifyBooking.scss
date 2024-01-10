@@ -1,0 +1,18 @@
+@import "../../../styles/variables";
+
+.verify-booking {
+  margin-top: $height-header;
+  .notice-text {
+    padding-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    &.success {
+      color: $text-subpage;
+    }
+    &.fail {
+      color: $warning-color;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+@import "../../../styles/variables";
+
+.doctor-schedule {
+  border-right: 0.5px solid rgba(160, 162, 172, 0.4);
+  .all-schedule {
+    .select-schedule-date {
+      height: 28px;
+      border-radius: 4px;
+    }
+  }
+  .all-available-time {
+    .calender-headline {
+      margin: 10px 0px 6px 0px;
+      span {
+        font-weight: bold;
+        color: $text-subpage;
+        .fa-calendar-alt {
+          margin-right: 6px;
+        }
+      }
+    }
+    .schedule-list {
+      .btn-time {
+        border: 1px solid $text-in-light;
+        width: 120px;
+        margin: 2px 12px 10px 0px;
+        font-size: 12px;
+        &.active {
+          background-color: $tone-green;
+        }
+        &:hover {
+          background-color: $tone-main-color;
+        }
+      }
+      .no-schedule {
+        font-size: 14px;
+        font-weight: 550;
+      }
+    }
+  }
+}
+.booking-modal {
+  display: none;
+}

@@ -1,0 +1,8 @@
+@import "../../styles/_variables.scss";
+
+div._loading_overlay_wrapper {
+  position: unset;
+  ._loading_overlay_overlay {
+    opacity: 0.6;
+  }
+}
