@@ -1,0 +1,21 @@
+.modal-content {
+  border: 1px solid #0071ba;
+  border-radius: 5px;
+  .modal-header {
+    .close {
+      background-color: transparent;
+      border: none;
+      color: white;
+      font-size: 28px;
+    }
+  }
+}
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  .create,
+  .cancel {
+    padding: 0px 8px;
+    margin: 16px 0px 0px 16px;
+  }
+}
