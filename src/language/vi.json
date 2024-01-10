@@ -1,0 +1,315 @@
+{
+  "homeheader": {
+    "speciality": "Chuyên khoa",
+    "speciality-sub": "Tìm bác sĩ theo chuyên khoa",
+    "medical-central": "Cơ sở y tế",
+    "medical-central-sub": "Chọn bệnh viện hoặc phòng khám",
+    "doctors": "Bác sĩ",
+    "doctors-sub": "Lựa chọn bác sĩ tốt nhất",
+    "package": "Gói khám bệnh",
+    "package-sub": "Khám sức khỏe tổng quát"
+  },
+  "homebanner": {
+    "title1": "NỀN TẢNG Y TẾ",
+    "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+    "speciality": "Khám chuyên khoa",
+    "remote": "Khám bệnh từ xa",
+    "general": "Kiểm tra sức khỏe tổng quát",
+    "test": "Xét nghiệm Y tế",
+    "mental": "Sức khỏe tâm lý",
+    "dentist": "Nha sĩ",
+    "surgery": "Gói phẫu thuật",
+    "product": "Sản phẩm Y tế"
+  },
+  "topnews": {
+    "more": "XEM CHI TIẾT",
+    "paternity": "Dịch vụ xét nghiệm DNA",
+    "paternity1": "Lấy mẫu tin cậy tại nhà",
+    "paternity2": "Chính sách bảo mật 100%",
+    "paternity3": "Xét nghiệm DNA hợp pháp",
+    "counseling": "Tư vấn sức khỏe từ xa",
+    "counseling1": "Chăm sóc sức khỏe từ bất cứ nơi nào bạn ở",
+    "counseling2": "Sắp xếp lịch hẹn tư vấn với bác sĩ",
+    "counseling3": "Tiết kiệm thời gian, tiết kiệm chi phí",
+    "homedoctor": "Bác sĩ thăm khám tại nhà",
+    "homedoctor1": "Đội ngũ bác sĩ giỏi và nhiều kinh nghiệm",
+    "homedoctor2": "Tạo sự thoải mái và gần gũi cho người khám",
+    "homedoctor3": "Bác sĩ chuyên khoa đa dạng",
+    "sp02": "Máy đo nồng độ oxy Sp02",
+    "sp021": "Hữu dụng với cả người lớn và trẻ em",
+    "sp022": "Đo nồng độ oxy trong máu và nhịp tim",
+    "sp023": "Tư vấn hướng dẫn sử dụng",
+    "testcovid": "Xét nghiệm PCR COVID-19",
+    "testcovid1": "Lấy mẫu xét nghiệm tại nhà",
+    "testcovid2": "Có kết quả trong 1-3 ngày",
+    "testcovid3": "Miễn phí tư vấn sức khỏe hậu COVID-19"
+  },
+  "specialities": {
+    "headline": "CHUYÊN KHOA PHỔ BIẾN",
+    "explore": "XEM THÊM",
+    "acupuncture": "Khoa châm cứu",
+    "cardio": "Khoa tim mạch",
+    "children": "Khoa nhi",
+    "covid19": "Hậu COVID 19",
+    "dentist": "Nha khoa",
+    "dermatology": "Khoa da liễu",
+    "digest": "Khoa tiêu hóa",
+    "eyes": "Khoa mắt",
+    "ent": "Khoa tai, mũi, họng",
+    "gynecology": "Phụ khoa",
+    "lung": "Khoa phổi",
+    "musculoskeletal": "Khoa cơ Xương Khớp",
+    "neurosciences": "Khoa thần kinh",
+    "psychology": "Tư vấn tâm lý",
+    "tradition": "Y học cổ truyền"
+  },
+  "centre": {
+    "headline": "BỆNH VIỆN VÀ PHÒNG KHÁM",
+    "explore": "XEM THÊM",
+    "choray": "Bệnh viện Chợ Rẫy",
+    "kcs1": "Bệnh viện K - Cơ sở Phan Chu Trinh, Hà Nội",
+    "pkphoisg": "Phòng khám Chuyên khoa Quốc tế Phổi Sài Gòn",
+    "pkdhyduoc1": "Phòng khám Bệnh viện Đại học Y Dược 1",
+    "pkdakhoasg": "Phòng khám Đa khoa Saigon Healthcare",
+    "thucuc": "Hệ thống Y tế Thu Cúc",
+    "vietduc": "Bệnh viện Hữu nghị Việt Đức",
+    "namhochiemmuon": "Bệnh viện Nam học và Hiếm muộn Hà Nội",
+    "anviet1": "Bệnh viện Đa khoa An Việt 1",
+    "yhcttw": "Bệnh viện Y học cổ truyền Trung ương",
+    "laokhoa": "Bệnh viện Lão khoa Trung ương",
+    "meditec": "Phòng khám Đa khoa Meditec",
+    "dongdo": "Bệnh viện Đa khoa Đông Đô",
+    "vinmec": "Bệnh Viện Đa Khoa Quốc Tế Vinmec Times City"
+  },
+  "doctor": {
+    "headline": "BÁC SĨ NỔI BẬT",
+    "explore": "XEM THÊM"
+  },
+  "handbook": {
+    "headline": "CẨM NANG",
+    "post": "TẤT CẢ CÁC BÀI VIẾT",
+    "themostreputationdentistry": "5 địa chỉ nha khoa uy tín tốt nhất tại Quận 7, TP HCM ",
+    "pregnancyhandbook": "Cẩm nang cần thiết dành cho phụ nữ mang thai"
+  },
+  "fordoctorcentre": {
+    "headline": "DÀNH CHO BÁC SĨ VÀ CƠ SỞ Y TẾ",
+    "post": "BÀI VIẾT",
+    "cooperate": "HỢP TÁC",
+    "contact": "LIÊN HỆ",
+    "upcustomerexperienceinwaitingroom": "Nâng cao trải nghiệm khách hàng tại phòng chờ khám",
+    "improvecustomerservice": "5 cách cải thiện hiệu suất cho cơ sở y tế",
+    "customerlifetimevalue": "Tính toán giá trị trọn đời của một bệnh nhân"
+  },
+  "footerabout": {
+    "aboutus": "VỀ CHÚNG TÔI",
+    "mysystem": "Hệ thống chăm sóc sức khẻo",
+    "ourdoctor": "Bác sĩ của chúng tôi",
+    "cooperate": "Hợp tác với chúng tôi",
+    "recruitment": "Tuyển dụng",
+    "news": "Tin tức mới nhất",
+    "policy": "Chính sách bảo mật"
+  },
+  "footerservice": {
+    "myservice": "DỊCH VỤ CỦA CHÚNG TÔI",
+    "make": "Hẹn gặp bác sĩ",
+    "package": "Các gói dịch vụ",
+    "customer": "Dành cho khách hàng",
+    "resolve": "Giải quyết khiếu nại",
+    "how": "Chúng tôi hoạt động như thế nào",
+    "faq": "Câu hỏi thường gặp"
+  },
+  "footercontact": {
+    "name": "Công ty Cổ phần Health Care",
+    "address": "Quận Cầu Giấy, TP. Hà Nội, Việt Nam",
+    "tel": "Điện thoại: ",
+    "support": "Hỗ trợ: ",
+    "signup": "Đăng ký",
+    "login": "Đăng nhập"
+  },
+  "footerbottom": {
+    "demo": "Websites tạo ra với mục đích chứng minh năng lực cá nhân.",
+    "not": "KHÔNG dùng với mục đích thương mại."
+  },
+  "common": {
+    "add": "Thêm",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "decentralize": "Phân quyền",
+    "close": "Đóng",
+    "save": "Lưu",
+    "refresh": "Refresh",
+    "accept": "Chấp nhận",
+    "confirm": "Xác nhận",
+    "confirm-this-task": "Bạn có chắc chắn thực hiện tác vụ này?",
+    "fail-to-load-data": "Không thể tải về dữ liệu",
+    "unknown-error": "Có lỗi xảy ra",
+    "internal-server-error": "Lỗi kết nối",
+    "bad-request": "Yêu cầu không hợp lệ",
+    "forbiden-request": "Thông tin truyền vào không hợp lệ",
+    "fail-to-load-all-code": "Không thể tải về dữ liệu allcode",
+    "sum": "Tổng",
+    "date-range-invalid": "Khoảng thời gian không hợp lệ"
+  },
+  "login": {
+    "login": "Đăng nhập",
+    "signout": "Đăng xuất",
+    "signup": "Đăng ký",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "userpass-wrong": "Sai tên đăng nhập hoặc mật khẩu!",
+    "help": "Trợ giúp",
+    "setting": "Cài đặt",
+    "doctor-manage": "Quản lý lịch khám",
+    "admin": "Quản lý chung"
+  },
+  "menu": {
+    "system": {
+      "header": "Hệ thống",
+      "system-administrator": {
+        "header": "Quản trị hệ thống",
+        "user-manage": "Quản lý người sử dụng",
+        "product-manage": "Quản lý các gói",
+        "user-redux": "Quản lý người sử dụng - Redux",
+        "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+      },
+      "system-parameter": {
+        "header": "Tham số hệ thống"
+      }
+    },
+    "admin": {
+      "user-manage": "Người dùng",
+      "doctor-manage": "Quản trị Bác sĩ",
+      "admin-manage": "Quản trị Admin",
+      "crud": "Chỉnh sửa người dùng",
+      "crud-redux": "Chỉnh sửa bằng Redux",
+      "centre": "Trung tâm Y tế",
+      "centre-manage": "Quản lý Cơ sở Y tế",
+      "create-centre": "Tạo mới Cơ sở Y tế",
+      "speciality": "Chuyên khoa",
+      "speciality-manage": "Quản lý chuyên khoa",
+      "handbook": "Cẩm nang",
+      "handbook-manage": "Quản lý cẩm nang"
+    },
+    "doctor": {
+      "schedule-manage": "Quản lý kế hoạch khám bệnh",
+      "patient-manage": "Quản lý bệnh nhân",
+      "doctor-manage": "Dành cho Bác sĩ"
+    }
+  },
+  "doctorschedule": {
+    "schedule-headline": "Quản lý lịch hẹn của bác sĩ",
+    "label-doctor": "Chọn bác sĩ",
+    "label-date": "Chọn ngày hẹn"
+  },
+  "doctorpatient": {
+    "patient-headline": "Quản lý bệnh nhân",
+    "label-doctor": "Chọn một Bác sĩ",
+    "label-date": "Chọn ngày hẹn",
+    "prescription-headline": "KẾT LUẬN KHÁM BỆNH",
+    "email": "Email của bệnh nhân",
+    "file": "Thêm kết quả khám bệnh",
+    "conclusion": "Bạn vừa khám xong cho bệnh nhân ",
+    "ok": "Gửi",
+    "cancel": "Cancel"
+  },
+  "system": {
+    "user-manage": {
+      "fail-to-load-fouser": "Không thể tải về danh sách người dùng",
+      "user-id": "Mã người sử dụng",
+      "usertype": "Loại người dùng",
+      "username": "Tên người dùng",
+      "fullname": "Tên đầy đủ",
+      "mobile": "Số điện thoại",
+      "email": "Email",
+      "status": "Trạng thái",
+      "add-user": "Thêm người dùng",
+      "edit-user": "Sửa thông tin người dùng",
+      "password": "Mật khẩu",
+      "retype-password": "Nhập lại mật khẩu",
+      "add-user-success": "Thêm người dùng thành công",
+      "edit-user-success": "Thay đổi thông tin người dùng thành công",
+      "add-user-fail": "Thêm người dùng thất bại",
+      "edit-user-fail": "Thay đổi thông tin người dùng thất bại",
+      "del-user-success": "Xóa người dùng thành công",
+      "del-user-fail": "Xóa người dùng thất bại",
+      "invalid-input": {
+        "username": "Quý khách vui lòng nhập tên người dùng",
+        "fullname": "Quý khách vui lòng nhập tên đầy đủ",
+        "password": "Quý khách vui lòng nhập mật khẩu"
+      },
+      "sure-delete-user": "Bạn có chắc chắn muốn xóa người dùng này?"
+    },
+    "user-redux": {
+      "headline": "Quản trị users bởi Redux",
+      "gender": "-- Chọn giới tính --",
+      "role": "-- Chọn vai trò người dùng --",
+      "create-btn": "Tạo người dùng mới",
+      "cancel-btn": "Hủy bỏ",
+      "edit-btn": "Sửa và Lưu"
+    },
+    "managedoctor": {
+      "headlinemanage": "Quản lý thông tin bác sĩ",
+      "intro": "Thêm thông tin giới thiệu",
+      "choosedoctor": "Chọn một bác sĩ",
+      "chooseprice": "Chọn mức giá khám bệnh",
+      "choosepayment": "Chọn phương thức thanh toán",
+      "choosecity": "Chọn một tỉnh/ thành phố",
+      "chooseaddress": "Địa chỉ phòng khám",
+      "chooseclinic": "Chọn một phòng khám",
+      "choosespecialty": "Chọn một chuyên khoa",
+      "note": "Lưu ý"
+    },
+    "managespecialty": {
+      "headline": "Quản lý thông tin các chuyên khoa",
+      "namevi": "Tên Tiếng Việt của chuyên khoa",
+      "nameen": "Tên Tiếng Anh của chuyên khoa",
+      "img": "Link (url) hình ảnh cho chuyên khoa",
+      "description": "Mô tả cho chuyên khoa"
+    },
+    "manageclinic": {
+      "headline1": "Tạo mới một cơ sở y tế",
+      "headline2": "Quản lý thông tin các cơ sở y tế",
+      "namevi": "Tên Tiếng Việt của cơ sở y tế",
+      "nameen": "Tên Tiếng Anh của cơ sở y tế",
+      "img": "Link (url) hình ảnh cho cơ sở y tế",
+      "address": "Địa chỉ cho cơ sở y tế",
+      "description": "Mô tả cho cơ sở y tế"
+    }
+  },
+  "patientside": {
+    "detaildoctor": {
+      "schedule": "CHỌN LỊCH KHÁM",
+      "noschedule": "Bác sĩ không có lịch khám vào ngày này, vui lòng đặt lịch khám vào khung giờ của ngày khác."
+    },
+    "detailinfodoctor": {
+      "address": "ĐỊA CHỈ",
+      "fee": "GIÁ KHÁM",
+      "fee1": "Giá khám:",
+      "fee11": "(Chưa bao gồm chi phí chụp chiếu hoặc dịch vụ khác)",
+      "fee2": "Phòng khám có hình thức thanh toán chi phí bằng ",
+      "fee3": "Được ưu tiên khám trước khi đặt khám qua BookingCare.",
+      "ins": "BẢO HIỂM ÁP DỤNG",
+      "ins1": "Bảo hiểm Y tế Nhà nước",
+      "ins2": "Không áp dụng",
+      "ins3": "Bảo hiểm bảo lãnh trực tiếp",
+      "ins4": "Cơ sở y tế hiện nay có hỗ trợ bảo lãnh trực tiếp và có xuất hóa đơn tài chính (hóa đơn VAT)",
+      "hide": "Ẩn chi tiết",
+      "show": "Xem chi tiết"
+    },
+    "bookingdoctor": {
+      "booking": "ĐẶT LỊCH KHÁM BỆNH",
+      "fee": "Giá khám:",
+      "fee1": "(Chưa bao gồm chi phí chụp chiếu và dịch vụ khác)",
+      "ok": "Đặt lịch khám",
+      "cancel": "Thoát",
+      "firstname": "Họ của bệnh nhân (*)",
+      "lastname": "Tên (+ tên đệm) của bệnh nhân (*)",
+      "tel": "Số điện thoại (*)",
+      "age": "Tuổi",
+      "gender": "Giới tính",
+      "email": "Email (*)",
+      "address": "Địa chỉ liên hệ",
+      "symptom": "Mô tả lý do khám bệnh"
+    }
+  }
+}

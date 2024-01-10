@@ -1,0 +1,315 @@
+{
+  "homeheader": {
+    "speciality": "Speciality",
+    "speciality-sub": "Search doctors by specialities",
+    "medical-central": "Health centre",
+    "medical-central-sub": "Chose the hospital or clinics",
+    "doctors": "Doctors",
+    "doctors-sub": "Find the best doctors",
+    "package": "Healthcare package",
+    "package-sub": "General health check"
+  },
+  "homebanner": {
+    "title1": "MEDICAL PLATFORM",
+    "title2": "TAKE CARE HEALTH COMPREHENSIVELY",
+    "speciality": "Health check on specialities",
+    "remote": "Remote health check",
+    "general": "General health check",
+    "test": "Medical test",
+    "mental": "Mental health",
+    "dentist": "Dentistry",
+    "surgery": "Surgery packages",
+    "product": "Medical Products"
+  },
+  "topnews": {
+    "more": "MORE DETAIL",
+    "paternity": "Paternity testing services",
+    "paternity1": "Trusted at-home",
+    "paternity2": "Security policy 100%",
+    "paternity3": "Legal DNA testing",
+    "counseling": "Remote health counselling",
+    "counseling1": "Access health care from everywhere you are",
+    "counseling2": "Schedule an appointment with a doctor",
+    "counseling3": "Saving your time, your fees",
+    "homedoctor": "Home visit doctor",
+    "homedoctor1": "Team of good and experienced doctors",
+    "homedoctor2": "Feeling more comfortable",
+    "homedoctor3": "Doctors in diverse speciality",
+    "sp02": "Pulse oximeter",
+    "sp021": "Useful for both adults and children",
+    "sp022": "Measures the pulse and oxygen saturation level",
+    "sp023": "User manual counselling",
+    "testcovid": "PCR COVID-19 testing",
+    "testcovid1": "Collect sample at your home",
+    "testcovid2": "Results in 1-3 days",
+    "testcovid3": "Free post-COVID-19 health consultation"
+  },
+  "specialities": {
+    "headline": "POPULAR SPECIALTIES",
+    "explore": "MORE",
+    "acupuncture": "Acupuncture",
+    "cardio": "Cardiology and vascular",
+    "children": "Children's care",
+    "covid19": "Post-covid 19",
+    "dentist": "Dentistry",
+    "dermatology": "Dermatology",
+    "digest": "Digestive health",
+    "eyes": "Eye institute",
+    "ent": "Ear, Nose & Throat",
+    "gynecology": "Gynecology",
+    "lung": "Lung medicine",
+    "musculoskeletal": "Musculoskeletal medicine",
+    "neurosciences": "Neurosciences",
+    "psychology": "Psychological counseling",
+    "tradition": "Traditional medicine"
+  },
+  "centre": {
+    "headline": "MEDICAL CENTRE",
+    "explore": "MORE",
+    "choray": "Cho Ray Hospital",
+    "kcs1": "K Hospital Phan Chu Trinh, Hà Nội",
+    "pkphoisg": "Lung International Specialist Sai Gon Clinic",
+    "pkdhyduoc1": "Medical University Hospital Clinic 1",
+    "pkdakhoasg": "Saigon Healthcare General Clinic",
+    "thucuc": "Thu Cuc International General Hospital",
+    "vietduc": "Viet Duc University Hospital",
+    "namhochiemmuon": "Andrology and Fertility Hospital of Hanoi",
+    "anviet1": "An Viet 1 International General Hospital",
+    "yhcttw": "National Hospital of Traditional Medicine",
+    "laokhoa": "National Geriatric Hospital",
+    "meditec": "Meditec General Clinic",
+    "dongdo": "Dong Do General Hospital",
+    "vinmec": "Vinmec Times City International General Hospital"
+  },
+  "doctor": {
+    "headline": "OUTSTANDING DOCTORS",
+    "explore": "MORE"
+  },
+  "handbook": {
+    "headline": "HANDBOOKS",
+    "post": "ALL POSTS",
+    "themostreputationdentistry": "5 of the most reputation Dentistry clinics at 7 District, HCM City",
+    "pregnancyhandbook": "The essential handbooks for pregnant women"
+  },
+  "fordoctorcentre": {
+    "headline": "FOR DOCTORS & MEDICAL CENTRE",
+    "post": "ALL POSTS",
+    "cooperate": "COOPERATION",
+    "contact": "CONTACT",
+    "upcustomerexperienceinwaitingroom": "How to improve the customers experience in the waiting room?",
+    "improvecustomerservice": "5 methods to advance in performance of the medical centre",
+    "customerlifetimevalue": "Lifetime value of the customers"
+  },
+  "footerabout": {
+    "aboutus": "ABOUT US",
+    "mysystem": "My health care system",
+    "ourdoctor": "Our doctors",
+    "cooperate": "Cooperate with us",
+    "recruitment": "Recruitment",
+    "news": "News",
+    "policy": "Privacy policy"
+  },
+  "footerservice": {
+    "myservice": "MY CARE SERVICES",
+    "make": "Make an appointment",
+    "package": "Service packages",
+    "customer": "For customers",
+    "resolve": "Resolve complaints",
+    "how": "How it works",
+    "faq": "FAQs"
+  },
+  "footercontact": {
+    "name": "Health Care., JSC.",
+    "address": "Cau Giay District Hanoi City, Vietnam",
+    "tel": "Tel: ",
+    "support": "Support: ",
+    "signup": "Sign Up",
+    "login": "Log In"
+  },
+  "footerbottom": {
+    "demo": "This is a demo website to demonstrate my abilities.",
+    "not": "Not for commercial purpose."
+  },
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "decentralize": "Decentralize",
+    "close": "Close",
+    "save": "Save",
+    "refresh": "Refresh",
+    "accept": "Accept",
+    "confirm": "Confirm",
+    "confirm-this-task": "Are you sure to process this task?",
+    "fail-to-load-data": "Fail to load data",
+    "unknown-error": "There was an error",
+    "internal-server-error": "Internal server error",
+    "bad-request": "Bad request",
+    "forbiden-request": "Invalid input data",
+    "fail-to-load-all-code": "Fail to load data from allcode",
+    "sum": "Sum",
+    "date-range-invalid": "Date range invalid"
+  },
+  "login": {
+    "login": "Log In",
+    "signout": "Sign Out",
+    "signup": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "userpass-wrong": "Invalid username or password!",
+    "help": "Help",
+    "setting": "Settings",
+    "doctor-manage": "Patients & Schedule",
+    "admin": "General Management"
+  },
+  "menu": {
+    "system": {
+      "header": "System",
+      "system-administrator": {
+        "header": "System Administrator",
+        "user-manage": "User manage",
+        "product-manage": "Package manage",
+        "user-redux": "User manage - Redux",
+        "register-package-group-or-account": "Register service package for group/account"
+      },
+      "system-parameter": {
+        "header": "System-parameter"
+      }
+    },
+    "admin": {
+      "user-manage": "User management",
+      "doctor-manage": "Doctor management",
+      "admin-manage": "Admin's management",
+      "crud": "CRUD Users",
+      "crud-redux": "CRUD Users - Redux",
+      "centre": "Medical Centre",
+      "centre-manage": "Medical Centre Management",
+      "create-centre": "Create A Medical Centre",
+      "speciality": "Specialities",
+      "speciality-manage": "Speciality Management",
+      "handbook": "Handbooks",
+      "handbook-manage": "Handbook Management"
+    },
+    "doctor": {
+      "schedule-manage": "Manage Doctor's schedule",
+      "patient-manage": "Manage Doctor's patient",
+      "doctor-manage": "For Doctors"
+    }
+  },
+  "doctorschedule": {
+    "schedule-headline": "Doctor's Appointment Management",
+    "label-doctor": "Choose a doctor",
+    "label-date": "Choose a date"
+  },
+  "doctorpatient": {
+    "patient-headline": "Doctor's Patients Management",
+    "label-doctor": "Choose a doctor",
+    "label-date": "Choose a date",
+    "prescription-headline": "CONCLUSION & PRESCRIPTION",
+    "email": "Patient's email",
+    "file": "Add a prescription",
+    "conclusion": "You have just prescribed for patient ",
+    "ok": "Send",
+    "cancel": "Cancel"
+  },
+  "system": {
+    "user-manage": {
+      "fail-to-load-fouser": "Fail to load system users list",
+      "user-id": "User ID",
+      "usertype": "User type",
+      "username": "Username",
+      "fullname": "Fullname",
+      "mobile": "Phone",
+      "email": "Email",
+      "status": "Status",
+      "add-user": "Add user",
+      "edit-user": "Edit user information",
+      "password": "Password",
+      "retype-password": "Retype password",
+      "add-user-success": "Add user successfully",
+      "edit-user-success": "Change user information successfully",
+      "add-user-fail": "Fail to add user",
+      "edit-user-fail": "Fail to change user information",
+      "del-user-success": "Delete user successfully",
+      "del-user-fail": "Fail to delete user",
+      "invalid-input": {
+        "username": "Please fill in username",
+        "fullname": "Please fill in fullname",
+        "password": "Please fill in password"
+      },
+      "sure-delete-user": "Are you sure to delete this user?"
+    },
+    "user-redux": {
+      "headline": "Manage users by Redux",
+      "gender": "-- Choose gender --",
+      "role": "-- Choose role --",
+      "create-btn": "Create a New User",
+      "cancel-btn": "Cancel and Back",
+      "edit-btn": "Edit and Save"
+    },
+    "managedoctor": {
+      "headlinemanage": "Doctor information management",
+      "intro": "More introduction infomation",
+      "choosedoctor": "Choose a doctor",
+      "chooseprice": "Choose a price",
+      "choosepayment": "Choose a payment",
+      "choosecity": "Choose a city/province",
+      "chooseaddress": "Address of medical centre",
+      "chooseclinic": "Choose a medical centre",
+      "choosespecialty": "Choose a specialty",
+      "note": "Note"
+    },
+    "managespecialty": {
+      "headline": "Specialty management",
+      "namevi": "Vietnamese name of new specialty",
+      "nameen": "English name of new specialty",
+      "img": "An image link for the specialty",
+      "description": "Description of the specialty"
+    },
+    "manageclinic": {
+      "headline1": "Create A Medical Center",
+      "headline2": "Medical Center management",
+      "namevi": "Vietnamese name of new clinic",
+      "nameen": "English name of new clinic",
+      "img": "An image link for the clinic",
+      "address": "Address of new clinic",
+      "description": "Description of the clinic"
+    }
+  },
+  "patientside": {
+    "detaildoctor": {
+      "schedule": "CHOOSE SCHEDULE",
+      "noschedule": "The doctor have no schedule today, please make an apointment for another day."
+    },
+    "detailinfodoctor": {
+      "address": "ADDRESS",
+      "fee": "FEES OF SERVICES",
+      "fee1": "Fees of services: ",
+      "fee11": "(Have not included digital X-Ray fee or other service fees)",
+      "fee2": "The medical centre accept payment by ",
+      "fee3": "You will be given priority making the appointment if booking through BookingCare.",
+      "ins": "HEALTH INSURANCE",
+      "ins1": "State Health Insurance",
+      "ins2": "Do not apply",
+      "ins3": "Direct guarantee insurance",
+      "ins4": "The facility currently supports direct guarantee insurance and has a financial invoice (VAT invoice)",
+      "hide": "Hide detail",
+      "show": "Show more"
+    },
+    "bookingdoctor": {
+      "booking": "BOOKING APPOINTMENT",
+      "fee": "Fees of services: ",
+      "fee1": "(Have not included digital X-Ray fee and other service fees)",
+      "ok": "Booking",
+      "cancel": "Cancel",
+      "firstname": "Firstname of Patient (*)",
+      "lastname": "Lastname of Patient (*)",
+      "tel": "Telephone Number (*)",
+      "age": "Age",
+      "gender": "Gender",
+      "email": "Email (*)",
+      "address": "Contact Address",
+      "symptom": "Describe Patient's symptom"
+    }
+  }
+}
