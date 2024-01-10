@@ -53,6 +53,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/thachnhb/medicbooking_frontend"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },

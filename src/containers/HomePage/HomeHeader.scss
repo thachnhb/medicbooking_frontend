@@ -1,8 +1,9 @@
 @import "../../styles/_variables.scss";
 
-$cover-banner: "../../../assets/images/2_banner/cover-banner.jpg";
-$flag_of_en: "../../../assets/images/1_header/flag_of_en.svg";
-$flag_of_vi: "../../../assets/images/1_header/flag_of_vi.svg";
+$cover-banner: "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/2_banner/cover-banner.jpg";
+$flag_of_vi: "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/flag_of_vi.svg";
+// $flag_en: "../../../assets/images/1_header/flag_of_en.svg";
+$flag_of_en: "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/flag_of_en.svg";
 
 .header {
   background-image: url($cover-banner);

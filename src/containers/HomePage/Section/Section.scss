@@ -1,0 +1,375 @@
+@import "../../../styles/variables";
+.section {
+  height: auto;
+  margin-top: 50px;
+  position: relative;
+  .section-header {
+    // padding: 26px 38px 0px 38px;
+    display: flex;
+    justify-content: space-between;
+    .headline {
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+    }
+
+    .explore {
+      font-size: 12px;
+      width: fit-content;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      padding: 2px 6px 0px 6px;
+      background: $tone-main-color;
+      border-radius: 4px;
+      text-align: center;
+      &:hover {
+        opacity: 0.6;
+      }
+    }
+  }
+  .carousel {
+    display: flex;
+    background: #fff;
+    align-items: center;
+    margin: 0px 18px 14px 18px;
+    position: relative;
+    .slick-slide {
+      .slide {
+        padding: 16px 10px 14px 10px;
+        .slider-link {
+          cursor: pointer;
+          color: $text-in-light;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          transition: transform 200ms linear;
+          &:hover {
+            transform: scale(1.02);
+            .clinic-title,
+            .specialty-title,
+            .doctor-title,
+            .doctor-subtitle {
+              color: blueviolet;
+            }
+          }
+          .slider {
+            .img {
+              z-index: 1;
+              width: 100%;
+              border-radius: 5px;
+              object-fit: contain;
+              background-size: contain;
+            }
+          }
+          .slider-title {
+            line-height: 3;
+          }
+        }
+      }
+    }
+    .slick-arrow {
+      display: flex;
+      height: 60px;
+      width: 60px;
+      z-index: 2;
+      background: $tone-green;
+      border-radius: 3px;
+      opacity: 0.4;
+      position: absolute;
+      top: 42%;
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+    .slick-prev {
+      left: -82px;
+    }
+    .slick-next {
+      right: -82px;
+    }
+  }
+}
+
+.section-sink {
+  box-shadow: none;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  .section-header {
+    background: $tone-green;
+    padding: 10px 40px;
+    border-radius: 8px;
+  }
+}
+.section-float {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding-left: 0px;
+  padding-right: 0px;
+  .section-header {
+    background: $header-in-light;
+    padding: 10px 40px;
+  }
+}
+
+.section-topnews {
+  height: auto;
+  .carousel {
+    .slide {
+      .slider-link {
+        align-items: stretch;
+        margin-top: 6px;
+        transition: transform 300ms linear;
+        &:hover {
+          transform: scale(1.05);
+        }
+        .expansion {
+          display: block;
+          align-items: center;
+          b {
+            display: flex;
+            align-items: center;
+            .fa-greater-than {
+              font-size: 15px;
+              margin-left: 6px;
+            }
+          }
+        }
+      }
+    }
+    .slick-arrow {
+      display: none !important;
+    }
+  }
+}
+
+.section-doctor {
+  height: auto;
+  .carousel {
+    .slide {
+      .slider-link {
+        align-items: center;
+        margin: 6px 0px 26px;
+        .slider {
+          height: 120px;
+          width: 120px;
+          display: flex;
+          margin: 10px 0px 14px;
+          .img {
+            border-radius: 50% !important;
+          }
+        }
+        span {
+          margin: 8px;
+        }
+        .doctor-title {
+          text-align: center;
+        }
+        .doctor-subtitle {
+          position: absolute;
+          bottom: 10px;
+        }
+      }
+    }
+  }
+}
+
+.section-centre {
+  .carousel {
+    .slide {
+      .slider-link {
+        .clinic-title {
+          text-align: center;
+          padding-top: 10px;
+        }
+      }
+    }
+  }
+}
+
+.section-speciality {
+  .carousel {
+    .slide {
+      .slider-link {
+        .specialty-title {
+          text-align: center;
+          padding-top: 10px;
+        }
+      }
+    }
+  }
+}
+.section-handbook,
+.section-fordoctorcentre {
+  height: auto;
+  .carousel {
+    .slide {
+      padding: 0px 10px 0px !important;
+      .slider-link {
+        align-items: center;
+        margin: 6px 0px 26px;
+        .slider {
+          margin: 10px 0px 6px;
+          display: flex;
+          height: 300px;
+          width: 100%;
+        }
+        span {
+          margin: 0px 8px 8px 8px;
+        }
+        .fordoctorcentre-title {
+          text-align: center;
+        }
+      }
+    }
+  }
+}
+
+.section-fordoctorcentre {
+  .section-header {
+    .headline {
+      padding: 4px 0px;
+    }
+    .fordoctorcentre {
+      width: 30%;
+      margin: 0px;
+      padding: 0px;
+      .explore {
+        margin: 6px 0px 0px 6px;
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .section-handbook,
+  .section-fordoctorcentre {
+    .section-header {
+      .fordoctorcentre {
+        width: 33%;
+      }
+      .headline {
+        font-size: 17px;
+      }
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .section {
+    .section-header {
+      .headline {
+        font-size: 15px;
+      }
+      .explore {
+        font-size: 11px;
+      }
+    }
+  }
+  .section-handbook,
+  .section-fordoctorcentre {
+    .section-header {
+      .fordoctorcentre {
+        width: 43%;
+      }
+    }
+    .carousel {
+      .slide {
+        .slider-link {
+          .slider {
+            height: 250px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 768px) {
+  .section {
+    .section-header {
+      .headline {
+        font-size: 13px;
+      }
+      .explore {
+        font-size: 10px;
+      }
+    }
+    .carousel {
+      .slick-arrow {
+        height: 42px;
+        width: 38px;
+      }
+      .slick-prev {
+        left: -18px;
+      }
+      .slick-next {
+        right: -18px;
+      }
+    }
+  }
+  .section-fordoctorcentre {
+    .section-header {
+      position: relative;
+      justify-content: center;
+      .headline {
+        text-align: center;
+        font-size: 18px;
+      }
+      .fordoctorcentre {
+        z-index: 3;
+        width: 82%;
+        position: absolute;
+        top: 350px;
+        left: 50%;
+        transform: translate(-52%, 0%);
+      }
+    }
+    .carousel {
+      .slick-slider {
+        margin-bottom: 60px;
+      }
+      .slide {
+        .slider-link {
+          .slider {
+            height: 220px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (max-width: 576px) {
+  .section {
+    .carousel {
+      .slide {
+        .slider-link {
+          .fordoctorcentre-title {
+            font-size: 12px;
+          }
+        }
+      }
+      .slick-arrow {
+        height: 38px;
+        width: 38px;
+      }
+    }
+  }
+}
+@media (max-width: 430px) {
+  .section {
+    .carousel {
+      .slick-arrow {
+        height: 35px;
+        width: 35px;
+      }
+    }
+  }
+  .section-fordoctorcentre {
+    .section-header {
+      .headline {
+        font-size: 14px;
+      }
+    }
+  }
+}

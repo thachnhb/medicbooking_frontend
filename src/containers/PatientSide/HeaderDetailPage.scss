@@ -1,7 +1,9 @@
 @import "../../styles/variables";
 
-$flag_vi: "../../../assets/images/1_header/flag_of_vi.svg";
-$flag_en: "../../../assets/images/1_header/flag_of_en.svg";
+// $flag_vi: "../../../assets/images/1_header/flag_of_vi.svg";
+$flag_vi: "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/flag_of_vi.svg?token=GHSAT0AAAAAACET5KQ4I6DYOONDTF22UZTKZM6XTQA";
+// $flag_en: "../../../assets/images/1_header/flag_of_en.svg";
+$flag_en: "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/flag_of_en.svg?token=GHSAT0AAAAAACET5KQ574BFI5S3M3TEWB5QZM6XVPQ";
 
 .home-header-container {
   .home-header-content {
