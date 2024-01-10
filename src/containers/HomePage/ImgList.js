@@ -1,0 +1,15 @@
+export let imgHomeHeader = {
+  logo_logo: "../../../assets/images/1_header/logo.svg",
+  logo_text: "../../../assets/images/1_header/logo_text.svg",
+  google_play: "../../../assets/images/2_banner/google_play.svg",
+  app_store: "../../../assets/images/2_banner/app_store.svg",
+  speciality: "../../../assets/images/2_banner/speciality.png",
+  remote: "../../../assets/images/2_banner/remote.png",
+  general: "../../../assets/images/2_banner/general.png",
+  test: "../../../assets/images/2_banner/test.png",
+  mental: "../../../assets/images/2_banner/mental.png",
+  dentist: "../../../assets/images/2_banner/dentist.png",
+  surgery: "../../../assets/images/2_banner/surgery.png",
+  product: "../../../assets/images/2_banner/product.png",
+  qrcode: "../../../assets/images/10_footer/qrcode.png",
+};
