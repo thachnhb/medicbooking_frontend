@@ -1,0 +1,88 @@
+@import "../../styles/_variables.scss";
+
+@mixin logo-social-login {
+  color: $general-in-dark;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin: 4px;
+  cursor: pointer;
+}
+.modal-content {
+  border: none !important;
+}
+
+.login-bg {
+  height: 100vh;
+  background: linear-gradient(
+    135deg,
+    rgb(190, 201, 98) 0%,
+    rgb(77, 63, 63) 100%
+  );
+  color: $general-in-light;
+  .login-container {
+    width: 280px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 500px;
+    .login-content {
+      border-radius: 8px;
+      border: 1px solid $border-in-light;
+      margin: 0 auto;
+      padding: 16px;
+      .text-title {
+        font-size: 22px;
+      }
+      .btn-login {
+        width: 80%;
+        border-radius: 10px;
+        background: linear-gradient(
+          45deg,
+          $tone-green 0%,
+          $tone-main-color 100%
+        );
+        color: $general-in-light;
+      }
+      .social-login {
+        justify-content: center;
+        .fab {
+          &.gg {
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+            background: rgb(170, 24, 24);
+            @include logo-social-login();
+          }
+          &.fb {
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+            background: rgb(92, 78, 211);
+            padding-right: 2px;
+            @include logo-social-login();
+          }
+        }
+      }
+      .create-account {
+        .link-create {
+          cursor: pointer;
+        }
+      }
+      .input-password {
+        position: relative;
+        .eye-password {
+          position: absolute;
+          right: 10px;
+          top: 10px;
+          color: #000;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
