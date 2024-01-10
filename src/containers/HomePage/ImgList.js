@@ -1,6 +1,6 @@
 export let imgHomeHeader = {
   logo_logo:
-    "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/logo.svg",
+    "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/logoMedical2.svg",
   logo_text:
     "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/1_header/medicbooking.svg",
   google_play:

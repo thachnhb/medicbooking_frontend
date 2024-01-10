@@ -15,11 +15,16 @@ class TopNews extends Component {
 
   render() {
     let language = this.props.language;
-    let paternity = "../../../assets/images/3_section_topnews/paternity.jpg";
-    let counseling = "../../../assets/images/3_section_topnews/counseling.jpg";
-    let homedoctor = "../../../assets/images/3_section_topnews/homedoctor.jpg";
-    let sp02 = "../../../assets/images/3_section_topnews/sp02.jpg";
-    let testcovid = "../../../assets/images/3_section_topnews/testcovid.jpg";
+    let paternity =
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/3_section_topnews/paternity.jpg";
+    let counseling =
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/3_section_topnews/counseling.jpg";
+    let homedoctor =
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/3_section_topnews/homedoctor.jpg";
+    let sp02 =
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/3_section_topnews/sp02.jpg";
+    let testcovid =
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/3_section_topnews/testcovid.jpg";
     return (
       <React.Fragment>
         <section>

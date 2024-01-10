@@ -108,11 +108,11 @@ class HomeFooter extends Component {
                       <FormattedMessage id="footercontact.address" />
                     </li>
                     <li className="item">
-                      <i className="fas fa-mobile-alt"></i> +84(0) 367 582 193
+                      <i className="fas fa-mobile-alt"></i> +84 974757799
                     </li>
                     <li className="item">
                       <i className="far fa-envelope"></i>
-                      kt.itengineer@gmail.com
+                      nhbthach@gmail.com
                     </li>
                     <li className="item sign-log">
                       <a className="signup" href="">
@@ -159,29 +159,17 @@ class HomeFooter extends Component {
                   <a
                     className="media-link"
                     target="_blank"
-                    href="https://www.facebook.com/khoa2425/"
+                    href="https://www.facebook.com/profile.php?id=100049013833505"
                   >
                     <i className="fab fa-facebook"></i>
                   </a>
-                  <a
-                    className="media-link"
-                    target="_blank"
-                    href="https://www.youtube.com/c/CE2Dev/"
-                  >
+                  <a className="media-link" target="_blank" href="">
                     <i className="fab fa-youtube"></i>
                   </a>
-                  <a
-                    className="media-link"
-                    target="_blank"
-                    href="https://github.com/kanechan25"
-                  >
+                  <a className="media-link" target="_blank" href="">
                     <i className="fab fa-github"></i>
                   </a>
-                  <a
-                    className="media-link"
-                    target="_blank"
-                    href="https://www.linkedin.com/in/khoatran2593/"
-                  >
+                  <a className="media-link" target="_blank" href="">
                     <i className="fab fa-linkedin"></i>
                   </a>
                 </div>

@@ -16,9 +16,9 @@ class Handbook extends Component {
   render() {
     let language = this.props.language;
     let themostreputationdentistry =
-      "../../../assets/images/7_section_handbook/pregnancyhandbook.jpg";
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/7_section_handbook/pregnancyhandbook.jpg";
     let pregnancyhandbook =
-      "../../../assets/images/7_section_handbook/themostreputationdentistry.jpg";
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/7_section_handbook/themostreputationdentistry.jpg";
     return (
       <React.Fragment>
         <section>

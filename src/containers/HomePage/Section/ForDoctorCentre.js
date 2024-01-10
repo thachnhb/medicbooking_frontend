@@ -16,11 +16,11 @@ class ForDoctorCentre extends Component {
   render() {
     let language = this.props.language;
     let customerlifetimevalue =
-      "../../../assets/images/8_section_for_doctor_centre/customerlifetimevalue.jpg";
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/8_section_for_doctor_centre/customerlifetimevalue.jpg";
     let improvecustomerservice =
-      "../../../assets/images/8_section_for_doctor_centre/improvecustomerservice.jpg";
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/8_section_for_doctor_centre/improvecustomerservice.jpg";
     let upcustomerexperienceinwaitingroom =
-      "../../../assets/images/8_section_for_doctor_centre/upcustomerexperienceinwaitingroom.jpg";
+      "https://raw.githubusercontent.com/thachnhb/medicbooking_frontend/master/src/assets/images/8_section_for_doctor_centre/upcustomerexperienceinwaitingroom.jpg";
     return (
       <React.Fragment>
         <section>
